@@ -44,7 +44,7 @@ feed_link = "https://v.angelcam.com/iframe?v=6xbymjk4y2&autoplay=1"
 feed_name = "Live feed- SoBe Dive Shop"
 
 # remember to pass lat, lng, alt, dt and your token
-info = get_uv_sun_info(25.80, -80.13, 100, '', 'openuv-p1f4orlmnbkmr2-io')
+info = get_uv_sun_info(25.80, -80.13, 100, '', 'openuv-getyourown-io')
 
 uv = info['uv']
 sunrise = info['sunrise']
